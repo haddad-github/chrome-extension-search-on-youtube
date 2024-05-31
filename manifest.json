@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "Search highlighted text on Youtube",
+  "name": "Search on Youtube",
   "version": "1.0",
   "description": "Gives the option to search highlighted text directly on Youtube, redirecting you to Youtube in another tab",
   "permissions": ["activeTab", "contextMenus"],
