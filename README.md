@@ -2,7 +2,7 @@
 Right click highlighted text and "search on Youtube", just like "search on Google"
 
 ### Link to the Chrome Extension
-Install it from here : ```https://chromewebstore.google.com/detail/search-on-youtube/bocecfgiliggfjjnkgolpekipdjbhlcm```
+Install it from here : https://chromewebstore.google.com/detail/search-on-youtube/bocecfgiliggfjjnkgolpekipdjbhlcm
 
 ### Context and Purpose
 Sometimes you read something and you want to look it up on Google; you have the *Search Google for "..."* option for that.
